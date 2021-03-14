@@ -1,8 +1,8 @@
 # Tabletop Town
 
-This is an Android and iOS application created by [Mikkel Sandberg](https://mikkelsandberg.com) (lead programmer) and [Peter Freeby](http://www.peterfreeby.com) (lead designer). Tabletop Town is, at its core, an instant messaging application that facilitates playing tabletop games in a more asyncronous fashion. Initially, we are including support for D&D 5th Edition, but we hope to expand to other game systems and even create the ability for users to make entirely new systems in the app.
+This is an Android and iOS application created by [Mikkel Sandberg](https://mikkelsandberg.com) (lead programmer) and [Peter Freeby](http://www.peterfreeby.com) (lead designer). Tabletop Town is, at its core, an instant messaging application that facilitates playing tabletop games in a more asyncronous fashion. Initially, we are including support for D&D 5th Edition, but we hope to expand to other game systems and create the ability for users to make their own game systems in the app.
 
-It uses Flutter for the UI, Firebase for user authentication and database services, and Google Cloud Functions to provide data to Algolia's Search API to do things like search for other users in the app. 
+It uses Flutter for the UI, Firebase for user authentication and database services, and Google Cloud Functions to provide data to Algolia's Search API to do things like search for other users in the app.
 
 Below, you can see some examples of the UI that we are building.
 
